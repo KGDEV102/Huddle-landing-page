@@ -113,8 +113,9 @@
       
     }
     .primary-img{
-        width: 100%;
+        max-width: 100%;
     }
+    
     .primary-content{
         text-align: center;
         margin-top: 80px;
